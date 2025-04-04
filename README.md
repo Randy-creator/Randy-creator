@@ -21,9 +21,9 @@
 
 # 🚀 What I'm All About
 
-I’m not here to *just* be a developer.  
-I want to **create**, **explore**, and **experiment** with everything life has to offer.  
-Code is just one tool in my backpack – and I plan on filling the rest with some wild experiences.
+> I’m not here to *just* be a developer.  
+> I want to **create**, **explore**, and **experiment** with everything life has to offer.  
+> Code is just one tool in my backpack – and I plan on filling the rest with some wild experiences.
 
 <br />
 
