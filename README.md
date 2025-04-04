@@ -83,7 +83,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Randy-creator&hide_progress=true)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Randy-creator/Randy-creator/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Randy-creator/Randy-creator/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Randy-creator/Randy-creator/output/github-snake.svg" />
 </picture>
