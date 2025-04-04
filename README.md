@@ -1,5 +1,43 @@
-## Hi there 👋
-  ```👋 Hi, I'm Randy!👩🏻‍💻 Software Engineer learnings in tech🎨 , tech```
+# 👋 About Me
+
+> **"Not your typical CS student. 👾"**  
+> — Aspiring *Fullsnack/Fullstack* Developer 🐼
+
+<br />
+
+---
+
+# 🧠 Things I'm Passionate About
+
+- 🎮 **Video Games** – especially *Tekken* (try me 👊)
+- 🎧 **Music** & 🎨 **Abstract Art**
+- 📚 **Reading** – manhwa, books, you name it
+- ⚽ **Football** – on the pitch or the screen
+- ✈️ **Traveling** – always down to explore something new
+
+<br />
+
+---
+
+# 🚀 What I'm All About
+
+I’m not here to *just* be a developer.  
+I want to **create**, **explore**, and **experiment** with everything life has to offer.  
+Code is just one tool in my backpack – and I plan on filling the rest with some wild experiences.
+
+<br />
+
+---
+# 💸 Ultimate Goal
+
+> To be **super rich**, not just in 💰,  
+> but in **skills, experiences, and vibes**.
+
+<br />
+
+> ```🌟 *Let’s connect, collaborate, and maybe even conquer the world together.*```
+
+<br/>
 
 # 💻 Tech Stack
 
@@ -33,4 +71,14 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+
+<br />
+
+# 📊 Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Randy-creator&theme=radical&show_icons=true)
+
+<br />
+
+# Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Randy-creator&hide_progress=true)
 
