@@ -9,7 +9,7 @@
 
 # 🧠 Things I'm Passionate About
 
-- 🎮 **Video Games** – especially *Tekken* (try me 👊)
+- 🎮 **Video Games** – especially *Tekken* (try me)
 - 🎧 **Music** & 🎨 **Abstract Art**
 - 📚 **Reading** – manhwa, books, you name it
 - ⚽ **Football** – on the pitch or the screen
