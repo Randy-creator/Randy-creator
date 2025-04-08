@@ -81,6 +81,7 @@
 <br />
 
 # Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Randy-creator&layout=pie)](https://github.com/Randy-creator/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Randy-creator&hide_progress=true)
 
 <picture>
