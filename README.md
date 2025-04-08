@@ -75,7 +75,8 @@
 <br />
 
 # 📊 Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Randy-creator&theme=radical&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Randy-creator&theme=default&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Randy-creator&theme=ocean-gradient&hide_border=false)
 
 <br />
 
