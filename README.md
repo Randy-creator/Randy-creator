@@ -1,4 +1,6 @@
-# <img src="https://raw.githubusercontent.com/MartinLaxe/MartinLaxe/main/assets/HandWave.gif" width="35px"> Hi, I'm Mandimbisoa Randy!
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=435&lines=Hi%2C+I'm+Mandimbisoa+Randy!;Full-Stack+%26+Dev%2FSec%2FOps+Developer;" alt="Typing SVG" />
+</a>
 
 **Full-Stack & Dev/Sec/Ops Developer** driven by continuous learning, system optimization, and building secure, high-performance software solutions.
 
