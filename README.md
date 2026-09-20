@@ -1,4 +1,4 @@
-# 💻 Tech Stack
+# My Stacks
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,11 +33,6 @@
 
 <br />
 
-# 📊 Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Randy-creator&theme=default&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Randy-creator&theme=ocean-gradient&hide_border=false)
-
-<br />
 
 # Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Randy-creator&layout=pie)](https://github.com/Randy-creator/github-readme-stats)
