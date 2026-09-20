@@ -1,6 +1,6 @@
 # Hi, I'm Mandimbisoa Randy!
 
-**Full-Stack & Dev/Sec/Ops Developer** driven by continuous learning, system optimization, and building secure, high-performance software solutions[cite: 1].
+**Full-Stack & Dev/Sec/Ops Developer** driven by continuous learning, system optimization, and building secure, high-performance software solutions.
 
 # My Stacks
 
