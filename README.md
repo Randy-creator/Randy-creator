@@ -1,3 +1,7 @@
+# Hi, I'm Mandimbisoa Randy!
+
+**Full-Stack & Dev/Sec/Ops Developer** driven by continuous learning, system optimization, and building secure, high-performance software solutions[cite: 1].
+
 # My Stacks
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
